@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "292094966479",
+    "firebase_url": "https://test-46f4a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-46f4a",
+    "storage_bucket": "test-46f4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292094966479:android:8fd37e039c41231cfe55ba",
+        "android_client_info": {
+          "package_name": "com.example.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292094966479-u7pgpg7qlf9hcvap8nkqshr1cs352c03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEuer7Tx76z2adB-ZoiOBa1b1x7-GYrZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292094966479-u7pgpg7qlf9hcvap8nkqshr1cs352c03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292094966479-56imtl6pdb2egv2ddct1kb1d8p30gdvl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthmon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292094966479:android:ecda7a128670dbdefe55ba",
+        "android_client_info": {
+          "package_name": "com.example.healthmon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292094966479-u7pgpg7qlf9hcvap8nkqshr1cs352c03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEuer7Tx76z2adB-ZoiOBa1b1x7-GYrZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292094966479-u7pgpg7qlf9hcvap8nkqshr1cs352c03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292094966479-56imtl6pdb2egv2ddct1kb1d8p30gdvl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthmon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
