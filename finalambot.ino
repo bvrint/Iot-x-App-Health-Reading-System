@@ -12,10 +12,10 @@
 #define EEPROM_PASS_ADDR 32
 
 // Firebase credentials
-#define API_KEY "AIzaSyC-3k7dU1WfaxwFPCc5MUamfVD4vlNgQFc"
-#define DATABASE_URL "https://test-46f4a-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define USER_EMAIL "jhonrussellrodriguez@gmail.com"
-#define USER_PASSWORD "12345678"
+#define API_KEY ""
+#define DATABASE_URL ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 // Firebase objects
 FirebaseData fbdo;
